@@ -1,7 +1,6 @@
 /**
  * @file reversi.c
  * @author Aryan Hussain
- * @brief This file is used for APS105 Lab 8. 2023W version
  * @date 2023-03-14
  * 
  */
